@@ -1,10 +1,11 @@
-<h2 align="left">Hi 👋! My name is Mouheb and I'm a Data science student</h2>
+<h1 align="left">Hi 👋! My name is Mouheb and I'm a Data science student</h1>
 
 ###
 
 <img align="right" height="150" src="https://ineedanime.com/wp-content/uploads/2021/09/kakashi-hatake-hello.gif"  />
 
 ###
+# 🤖 Tech stack:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"  />
@@ -37,7 +38,7 @@
 </div>
 
 ###
-
+# 🤝 Get in touch with me:
 <div align="left">
   <a href="https://www.linkedin.com/in/mouheb-abdelhafidh-978282236/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
@@ -46,9 +47,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=MouhebAbdelhafidh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MouhebAbdelhafidh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MouhebAbdelhafidh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MouhebAbdelhafidh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
 <picture>
