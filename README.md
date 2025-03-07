@@ -13,9 +13,6 @@
 
 ###
 ![](https://nirzak-streak-stats.vercel.app/?user=MouhebAbdelhafidh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MouhebAbdelhafidh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MouhebAbdelhafidh/MouhebAbdelhafidh/blob/output/github-snake-dark.svg" />
