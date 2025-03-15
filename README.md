@@ -2,8 +2,7 @@
 
 ###
 
-
-![](https://nirzak-streak-stats.vercel.app/?user=MouhebAbdelhafidh&theme=dark&hide_border=false)<br/>
+<img align="right" height="150" src="https://ineedanime.com/wp-content/uploads/2021/09/kakashi-hatake-hello.gif"  />
 
 ###
 <picture>
