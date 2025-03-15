@@ -1,10 +1,7 @@
-<h1 align="left">Hi 👋! My name is Mouheb and I'm a Data science student</h1>
+<h2 align="left">Hi 👋! My name is Mouheb and I'm a Data science student</h2>
 
 ###
 
-<img align="right" height="150" src="https://ineedanime.com/wp-content/uploads/2021/09/kakashi-hatake-hello.gif"  />
-
-###
 
 ![](https://nirzak-streak-stats.vercel.app/?user=MouhebAbdelhafidh&theme=dark&hide_border=false)<br/>
 
