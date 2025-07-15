@@ -1,6 +1,6 @@
-<p align="center">
+<h4 align="center">
   I’m a final-year engineering student curious about AI agents, computer vision and deep learning with a problem solving mindset and a solid background in mathematics.
-</p>
+</h4>
 
 <p align="center">
   <picture>
