@@ -1,7 +1,5 @@
 <div align="center">
   <p>
-    <a href="https://x.com/MouhebAbd56">
-      <img src="https://github.com/user-attachments/assets/e5573ec3-af5c-436a-ace8-fe7b23aab35a" width="60" height="60" alt="X" />
-    </a>
+    ![ʙᴀɴɴᴇʀs](https://github.com/user-attachments/assets/e4bbf183-fe66-47f6-9334-07b88a19e155)
   </p>
 </div>
